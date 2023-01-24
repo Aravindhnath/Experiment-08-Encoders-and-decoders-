@@ -62,7 +62,6 @@ D7 = X Y Z
 3.Perform or operation for encoder and and logic for decoders.
 
 4.Perform RTL LOGIC and get waveform.
-
 ### PROGRAM 
 ```
 /*
@@ -89,7 +88,6 @@ endmodule
 ### TRUTH TABLE 
 ![tt exp 8](https://user-images.githubusercontent.com/118790841/214290641-49be013f-b922-4a16-a373-35035c2d67d6.png)
 
-
 ### PROGRAM(DECODER):
 ```
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
@@ -111,7 +109,6 @@ assign d7 = (a&b&c);
 
 endmodule 
 ```
-
 ### RTL LOGIC:
 ![rtl exp 8(2)](https://user-images.githubusercontent.com/118790841/214291323-21a87b15-0a9c-428a-a6d6-8d5432a74ca4.png)
 
